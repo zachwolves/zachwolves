@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachwolves
-- 👀 I’m interested in design, branding, development, film... basically the whole creatie spectrum!
+- 👀 I’m interested in design, branding, development, film... basically the whole creative spectrum!
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate and open to ideas/tips!
 - 📫 How to reach me ...
